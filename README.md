@@ -20,7 +20,8 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.3.2 or
 9. Brick wall, freePBR, ( https://freepbr.com/materials/worn-out-old-brick-wall-pbr-material/ )
 10. Power up sound, MushroomKingdom.net, ( https://themushroomkingdom.net/sounds/wav/smw/smw_power-up.wav )
 11. Stadium, Sergej Majboroda, Poly Haven, ( https://polyhaven.com/a/stadium_01 )
-12. 
+12. Fox, Animal Variety pack from Protofacotr Inc, Unreal Engine MarketPlace, ( https://www.unrealengine.com/marketplace/en-US/product/17c2d7d545674204a7644c3c0c4c58ba )
+
 
 
 
